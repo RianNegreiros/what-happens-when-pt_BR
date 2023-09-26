@@ -1,4 +1,4 @@
-Este repositório é a versão traduzida para o português do Brasil do recurso de `Alex Waynor`_, `"What happens when..."`_. 
+Este repositório é a versão traduzida para o português do Brasil do repositório de `Alex Waynor`_, `"What happens when..."`_. 
 
 Alex Waynor não está associado a este trabalho nem revisou a tradução.
 
